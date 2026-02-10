@@ -1,0 +1,14 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Virtual environments (if you create one inside the repo)
+.venv/
+env/
+
+# Large data files (optional)
+data/skygeni_sales_data.csv
+
